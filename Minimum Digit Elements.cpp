@@ -20,4 +20,6 @@ int main()
     {
         if(x==m)c++;
     }
+    cout<<c;
    
+}
